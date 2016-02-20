@@ -1,0 +1,26 @@
+{
+  "name": "redux-delegate-action",
+  "version": "1.0.0",
+  "description": "Delegate actions to be dispatched after the current or next reducer is finished",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forstaathletics/redux-delegate-action.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "action",
+    "reducer",
+    "store"
+  ],
+  "author": "Jeff Buttars <jeffbuttars@gmail.com> (jeffbuttars@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forstaathletics/redux-delegate-action/issues"
+  },
+  "homepage": "https://github.com/forstaathletics/redux-delegate-action#readme"
+}
